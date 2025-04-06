@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BarnabyGichana
 - 👀 Looking forward to the day I create my first app.
-- 🌱 Currently learning Database System Design & Development, Software Development & Operations.
+- 🌱 Currently studying Artificial Intelligence, Software Development & Operations, and Database System Design & Development.
 - 💞️ Looking to collaborate on a fun/interesting team projects.
 - 📫 You can contact me via my LinkedIn profile: Barnaby Gichana.
 - ⚡ Fun fact: I love music and I play the tenor saxophone for my university's wind symphony.
